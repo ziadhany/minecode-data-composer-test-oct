@@ -1,0 +1,4 @@
+- pkg:composer/amphp/php-cs-fixer-config@v2.1.1
+- pkg:composer/amphp/php-cs-fixer-config@v2.1.0
+- pkg:composer/amphp/php-cs-fixer-config@v2.0.1
+- pkg:composer/amphp/php-cs-fixer-config@v2.0.0

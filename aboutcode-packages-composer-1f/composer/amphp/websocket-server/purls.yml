@@ -1,0 +1,12 @@
+- pkg:composer/amphp/websocket-server@v4.0.0
+- pkg:composer/amphp/websocket-server@v4.0.0-beta.1
+- pkg:composer/amphp/websocket-server@v3.0.1
+- pkg:composer/amphp/websocket-server@v3.0.0
+- pkg:composer/amphp/websocket-server@v3.0.0-beta.2
+- pkg:composer/amphp/websocket-server@v3.0.0-beta.1
+- pkg:composer/amphp/websocket-server@v2.0.0
+- pkg:composer/amphp/websocket-server@v2.0.0-rc3
+- pkg:composer/amphp/websocket-server@v2.0.0-rc2
+- pkg:composer/amphp/websocket-server@v2.0.0-rc1
+- pkg:composer/amphp/websocket-server@v1.0.1
+- pkg:composer/amphp/websocket-server@v1.0.0

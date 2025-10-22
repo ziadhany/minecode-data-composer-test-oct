@@ -1,0 +1,3 @@
+- pkg:composer/amphp/http-client-psr7@v1.1.1
+- pkg:composer/amphp/http-client-psr7@v1.1.0
+- pkg:composer/amphp/http-client-psr7@v1.0.0

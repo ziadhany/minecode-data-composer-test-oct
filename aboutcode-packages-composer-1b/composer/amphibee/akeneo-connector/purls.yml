@@ -1,0 +1,4 @@
+- pkg:composer/amphibee/akeneo-connector@1.22.2
+- pkg:composer/amphibee/akeneo-connector@1.22.1
+- pkg:composer/amphibee/akeneo-connector@1.21
+- pkg:composer/amphibee/akeneo-connector@1.16.0

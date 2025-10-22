@@ -1,0 +1,5 @@
+- pkg:composer/amsdard/boltcms-as-docker@v4
+- pkg:composer/amsdard/boltcms-as-docker@v3
+- pkg:composer/amsdard/boltcms-as-docker@v1.0.2
+- pkg:composer/amsdard/boltcms-as-docker@v1.0.1
+- pkg:composer/amsdard/boltcms-as-docker@v1.0
