@@ -1,0 +1,9 @@
+- pkg:composer/aurigma/php-asset-storage-client@2.1.1
+- pkg:composer/aurigma/php-asset-storage-client@2.1.0
+- pkg:composer/aurigma/php-asset-storage-client@2.0.0
+- pkg:composer/aurigma/php-asset-storage-client@1.1.1
+- pkg:composer/aurigma/php-asset-storage-client@1.1.0
+- pkg:composer/aurigma/php-asset-storage-client@1.0.3
+- pkg:composer/aurigma/php-asset-storage-client@1.0.2-alpha
+- pkg:composer/aurigma/php-asset-storage-client@1.0.1-alpha
+- pkg:composer/aurigma/php-asset-storage-client@1.0.0-alpha

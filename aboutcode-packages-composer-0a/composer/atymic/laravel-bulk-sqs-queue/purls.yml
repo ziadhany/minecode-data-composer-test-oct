@@ -1,0 +1,7 @@
+- pkg:composer/atymic/laravel-bulk-sqs-queue@0.6.0
+- pkg:composer/atymic/laravel-bulk-sqs-queue@0.5.0
+- pkg:composer/atymic/laravel-bulk-sqs-queue@0.4.0
+- pkg:composer/atymic/laravel-bulk-sqs-queue@0.3.0
+- pkg:composer/atymic/laravel-bulk-sqs-queue@0.2.0
+- pkg:composer/atymic/laravel-bulk-sqs-queue@0.1.1
+- pkg:composer/atymic/laravel-bulk-sqs-queue@0.1.0
