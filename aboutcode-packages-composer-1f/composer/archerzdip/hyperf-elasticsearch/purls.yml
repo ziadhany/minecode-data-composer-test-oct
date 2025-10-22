@@ -1,0 +1,4 @@
+- pkg:composer/archerzdip/hyperf-elasticsearch@v2.0.2
+- pkg:composer/archerzdip/hyperf-elasticsearch@v2.0.1
+- pkg:composer/archerzdip/hyperf-elasticsearch@v2.0.0
+- pkg:composer/archerzdip/hyperf-elasticsearch@v1.0.0
