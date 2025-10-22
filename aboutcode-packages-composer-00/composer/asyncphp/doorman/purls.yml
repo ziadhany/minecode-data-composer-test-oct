@@ -1,0 +1,12 @@
+- pkg:composer/asyncphp/doorman@5.0.0
+- pkg:composer/asyncphp/doorman@4.0.0
+- pkg:composer/asyncphp/doorman@4.0.0-beta1
+- pkg:composer/asyncphp/doorman@3.2.0
+- pkg:composer/asyncphp/doorman@3.1.1
+- pkg:composer/asyncphp/doorman@3.1.0
+- pkg:composer/asyncphp/doorman@3.0.0
+- pkg:composer/asyncphp/doorman@2.0.0
+- pkg:composer/asyncphp/doorman@1.2.0
+- pkg:composer/asyncphp/doorman@1.1.1
+- pkg:composer/asyncphp/doorman@1.1.0
+- pkg:composer/asyncphp/doorman@1.0.0

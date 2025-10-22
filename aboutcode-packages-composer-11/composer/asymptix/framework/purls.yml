@@ -1,0 +1,5 @@
+- pkg:composer/asymptix/framework@v2.2
+- pkg:composer/asymptix/framework@v2.2-beta
+- pkg:composer/asymptix/framework@v2.1.1-RC
+- pkg:composer/asymptix/framework@v2.1.0-beta
+- pkg:composer/asymptix/framework@v2.1.0-alpha

@@ -1,0 +1,12 @@
+- pkg:composer/async-aws/kinesis@3.3.0
+- pkg:composer/async-aws/kinesis@3.2.0
+- pkg:composer/async-aws/kinesis@3.1.1
+- pkg:composer/async-aws/kinesis@3.1.0
+- pkg:composer/async-aws/kinesis@3.0.3
+- pkg:composer/async-aws/kinesis@3.0.2
+- pkg:composer/async-aws/kinesis@3.0.1
+- pkg:composer/async-aws/kinesis@3.0.0
+- pkg:composer/async-aws/kinesis@2.0.0
+- pkg:composer/async-aws/kinesis@1.1.0
+- pkg:composer/async-aws/kinesis@1.0.0
+- pkg:composer/async-aws/kinesis@0.1.0

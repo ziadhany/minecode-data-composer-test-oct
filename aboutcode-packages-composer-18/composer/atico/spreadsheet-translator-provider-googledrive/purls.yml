@@ -1,0 +1,4 @@
+- pkg:composer/atico/spreadsheet-translator-provider-googledrive@8.0.1
+- pkg:composer/atico/spreadsheet-translator-provider-googledrive@5.6
+- pkg:composer/atico/spreadsheet-translator-provider-googledrive@1.0.1
+- pkg:composer/atico/spreadsheet-translator-provider-googledrive@1.0.0

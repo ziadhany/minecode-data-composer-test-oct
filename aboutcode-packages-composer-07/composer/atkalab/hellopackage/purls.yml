@@ -1,0 +1,4 @@
+- pkg:composer/atkalab/hellopackage@v1.0.3
+- pkg:composer/atkalab/hellopackage@v1.0.2
+- pkg:composer/atkalab/hellopackage@v1.0.1
+- pkg:composer/atkalab/hellopackage@v1.0.0

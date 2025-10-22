@@ -1,0 +1,13 @@
+- pkg:composer/async-aws/athena@3.4.0
+- pkg:composer/async-aws/athena@3.3.0
+- pkg:composer/async-aws/athena@3.2.0
+- pkg:composer/async-aws/athena@3.1.0
+- pkg:composer/async-aws/athena@3.0.0
+- pkg:composer/async-aws/athena@2.3.0
+- pkg:composer/async-aws/athena@2.2.1
+- pkg:composer/async-aws/athena@2.2.0
+- pkg:composer/async-aws/athena@2.1.1
+- pkg:composer/async-aws/athena@2.1.0
+- pkg:composer/async-aws/athena@2.0.0
+- pkg:composer/async-aws/athena@1.0.0
+- pkg:composer/async-aws/athena@0.1.0

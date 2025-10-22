@@ -1,0 +1,3 @@
+- pkg:composer/atlassian/stash-client@1.1.1
+- pkg:composer/atlassian/stash-client@1.1.0
+- pkg:composer/atlassian/stash-client@1.0

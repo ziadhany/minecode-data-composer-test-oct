@@ -1,0 +1,13 @@
+- pkg:composer/async-aws/flysystem-s3@1.0.2
+- pkg:composer/async-aws/flysystem-s3@1.0.1
+- pkg:composer/async-aws/flysystem-s3@1.0.0
+- pkg:composer/async-aws/flysystem-s3@1.0.0-RC1
+- pkg:composer/async-aws/flysystem-s3@0.4.2
+- pkg:composer/async-aws/flysystem-s3@0.4.1
+- pkg:composer/async-aws/flysystem-s3@0.4.0
+- pkg:composer/async-aws/flysystem-s3@0.3.3
+- pkg:composer/async-aws/flysystem-s3@0.3.2
+- pkg:composer/async-aws/flysystem-s3@0.3.1
+- pkg:composer/async-aws/flysystem-s3@0.3.0
+- pkg:composer/async-aws/flysystem-s3@0.2.0
+- pkg:composer/async-aws/flysystem-s3@0.1.0

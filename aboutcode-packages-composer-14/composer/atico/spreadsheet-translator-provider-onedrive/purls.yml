@@ -1,0 +1,3 @@
+- pkg:composer/atico/spreadsheet-translator-provider-onedrive@8.0.1
+- pkg:composer/atico/spreadsheet-translator-provider-onedrive@5.6
+- pkg:composer/atico/spreadsheet-translator-provider-onedrive@1.0.0
