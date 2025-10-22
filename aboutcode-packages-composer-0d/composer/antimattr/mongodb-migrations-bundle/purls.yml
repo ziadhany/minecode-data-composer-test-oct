@@ -1,0 +1,3 @@
+- pkg:composer/antimattr/mongodb-migrations-bundle@v1.0.2
+- pkg:composer/antimattr/mongodb-migrations-bundle@v1.0.1
+- pkg:composer/antimattr/mongodb-migrations-bundle@v1.0.0

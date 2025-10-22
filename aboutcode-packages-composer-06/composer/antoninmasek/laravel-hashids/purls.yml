@@ -1,0 +1,4 @@
+- pkg:composer/antoninmasek/laravel-hashids@1.1.0
+- pkg:composer/antoninmasek/laravel-hashids@1.0.0
+- pkg:composer/antoninmasek/laravel-hashids@0.2.0
+- pkg:composer/antoninmasek/laravel-hashids@0.1.0

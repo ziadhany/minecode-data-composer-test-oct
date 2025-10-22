@@ -1,0 +1,3 @@
+- pkg:composer/antonmarin/traceable-pdo@2.1.0
+- pkg:composer/antonmarin/traceable-pdo@2.0.0
+- pkg:composer/antonmarin/traceable-pdo@v1.0.0

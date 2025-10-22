@@ -1,0 +1,4 @@
+- pkg:composer/antyblin/laravel-swoole-redis@1.1
+- pkg:composer/antyblin/laravel-swoole-redis@1.0.1
+- pkg:composer/antyblin/laravel-swoole-redis@1.0.0
+- pkg:composer/antyblin/laravel-swoole-redis@0.0.1
