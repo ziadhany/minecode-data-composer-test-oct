@@ -1,0 +1,16 @@
+- pkg:composer/aqua/aquastrap@v3.1.1-beta.1
+- pkg:composer/aqua/aquastrap@v3.1.0-beta.1
+- pkg:composer/aqua/aquastrap@v3.0.0-beta.1
+- pkg:composer/aqua/aquastrap@v2.0.0-beta.1
+- pkg:composer/aqua/aquastrap@v1.0.0-beta.2
+- pkg:composer/aqua/aquastrap@v1.0.0-beta.1
+- pkg:composer/aqua/aquastrap@v0.0.10-alpha
+- pkg:composer/aqua/aquastrap@v0.0.9-alpha
+- pkg:composer/aqua/aquastrap@v0.0.8-alpha
+- pkg:composer/aqua/aquastrap@v0.0.7-alpha
+- pkg:composer/aqua/aquastrap@v0.0.6-alpha
+- pkg:composer/aqua/aquastrap@v0.0.5-alpha
+- pkg:composer/aqua/aquastrap@v0.0.4-alpha
+- pkg:composer/aqua/aquastrap@v0.0.3-alpha
+- pkg:composer/aqua/aquastrap@v0.0.2-alpha
+- pkg:composer/aqua/aquastrap@v0.0.1-alpha

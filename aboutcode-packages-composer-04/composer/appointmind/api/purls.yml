@@ -1,0 +1,9 @@
+- pkg:composer/appointmind/api@v9
+- pkg:composer/appointmind/api@v8
+- pkg:composer/appointmind/api@v7
+- pkg:composer/appointmind/api@v6
+- pkg:composer/appointmind/api@v5
+- pkg:composer/appointmind/api@v4
+- pkg:composer/appointmind/api@v3
+- pkg:composer/appointmind/api@v2-alpha
+- pkg:composer/appointmind/api@v1-alpha

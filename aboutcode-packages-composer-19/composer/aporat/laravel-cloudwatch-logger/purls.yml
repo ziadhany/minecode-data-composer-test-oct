@@ -1,0 +1,4 @@
+- pkg:composer/aporat/laravel-cloudwatch-logger@v2.0.0
+- pkg:composer/aporat/laravel-cloudwatch-logger@v1.1.0
+- pkg:composer/aporat/laravel-cloudwatch-logger@v1.0.2
+- pkg:composer/aporat/laravel-cloudwatch-logger@v1.0.0

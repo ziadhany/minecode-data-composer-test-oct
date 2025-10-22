@@ -1,0 +1,17 @@
+- pkg:composer/app-insights-php/client@0.3.0
+- pkg:composer/app-insights-php/client@0.2.12
+- pkg:composer/app-insights-php/client@0.2.11
+- pkg:composer/app-insights-php/client@0.2.10
+- pkg:composer/app-insights-php/client@0.2.9
+- pkg:composer/app-insights-php/client@0.2.8
+- pkg:composer/app-insights-php/client@0.2.7
+- pkg:composer/app-insights-php/client@0.2.6
+- pkg:composer/app-insights-php/client@0.2.5
+- pkg:composer/app-insights-php/client@0.2.4
+- pkg:composer/app-insights-php/client@0.2.3
+- pkg:composer/app-insights-php/client@0.2.2
+- pkg:composer/app-insights-php/client@0.2.1
+- pkg:composer/app-insights-php/client@0.2.0
+- pkg:composer/app-insights-php/client@0.1.2
+- pkg:composer/app-insights-php/client@0.1.1
+- pkg:composer/app-insights-php/client@0.1.0

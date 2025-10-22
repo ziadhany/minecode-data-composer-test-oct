@@ -1,0 +1,5 @@
+- pkg:composer/appserver-io/ldap@3.0.0
+- pkg:composer/appserver-io/ldap@2.0.1
+- pkg:composer/appserver-io/ldap@2.0.0
+- pkg:composer/appserver-io/ldap@1.0.1
+- pkg:composer/appserver-io/ldap@1.0.0

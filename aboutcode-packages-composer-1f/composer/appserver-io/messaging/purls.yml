@@ -1,0 +1,15 @@
+- pkg:composer/appserver-io/messaging@4.0.1
+- pkg:composer/appserver-io/messaging@4.0.0
+- pkg:composer/appserver-io/messaging@3.0.0
+- pkg:composer/appserver-io/messaging@2.0.1
+- pkg:composer/appserver-io/messaging@2.0.0
+- pkg:composer/appserver-io/messaging@1.0.1
+- pkg:composer/appserver-io/messaging@1.0.0
+- pkg:composer/appserver-io/messaging@0.4.3
+- pkg:composer/appserver-io/messaging@0.4.2
+- pkg:composer/appserver-io/messaging@0.4.1
+- pkg:composer/appserver-io/messaging@0.4.0
+- pkg:composer/appserver-io/messaging@0.3.2
+- pkg:composer/appserver-io/messaging@0.3.1
+- pkg:composer/appserver-io/messaging@0.3.0
+- pkg:composer/appserver-io/messaging@0.2.6

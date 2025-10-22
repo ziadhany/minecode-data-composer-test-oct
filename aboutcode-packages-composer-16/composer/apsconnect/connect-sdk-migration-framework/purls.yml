@@ -1,0 +1,4 @@
+- pkg:composer/apsconnect/connect-sdk-migration-framework@16.1
+- pkg:composer/apsconnect/connect-sdk-migration-framework@16.0
+- pkg:composer/apsconnect/connect-sdk-migration-framework@15.1
+- pkg:composer/apsconnect/connect-sdk-migration-framework@15.0

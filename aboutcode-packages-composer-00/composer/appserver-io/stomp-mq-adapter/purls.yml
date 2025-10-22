@@ -1,0 +1,4 @@
+- pkg:composer/appserver-io/stomp-mq-adapter@v0.9-beta
+- pkg:composer/appserver-io/stomp-mq-adapter@v0.8-beta
+- pkg:composer/appserver-io/stomp-mq-adapter@v0.8-alpha
+- pkg:composer/appserver-io/stomp-mq-adapter@v0.2-alpha
