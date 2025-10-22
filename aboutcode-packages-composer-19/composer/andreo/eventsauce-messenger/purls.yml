@@ -1,0 +1,4 @@
+- pkg:composer/andreo/eventsauce-messenger@3.1
+- pkg:composer/andreo/eventsauce-messenger@3.0
+- pkg:composer/andreo/eventsauce-messenger@2.0.0
+- pkg:composer/andreo/eventsauce-messenger@1.0.0

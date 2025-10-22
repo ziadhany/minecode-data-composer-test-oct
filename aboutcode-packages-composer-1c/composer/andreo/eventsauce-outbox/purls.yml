@@ -1,0 +1,7 @@
+- pkg:composer/andreo/eventsauce-outbox@3.3
+- pkg:composer/andreo/eventsauce-outbox@3.2
+- pkg:composer/andreo/eventsauce-outbox@3.1
+- pkg:composer/andreo/eventsauce-outbox@3.0
+- pkg:composer/andreo/eventsauce-outbox@2.0.1
+- pkg:composer/andreo/eventsauce-outbox@2.0.0
+- pkg:composer/andreo/eventsauce-outbox@1.0.0

@@ -1,0 +1,4 @@
+- pkg:composer/andreo/eventsauce-bundle@3.0
+- pkg:composer/andreo/eventsauce-bundle@2.0.1
+- pkg:composer/andreo/eventsauce-bundle@2.0.0
+- pkg:composer/andreo/eventsauce-bundle@1.0.0-beta
