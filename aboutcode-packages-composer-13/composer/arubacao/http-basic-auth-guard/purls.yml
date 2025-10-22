@@ -1,0 +1,5 @@
+- pkg:composer/arubacao/http-basic-auth-guard@2.0.0
+- pkg:composer/arubacao/http-basic-auth-guard@1.0.4
+- pkg:composer/arubacao/http-basic-auth-guard@1.0.3
+- pkg:composer/arubacao/http-basic-auth-guard@1.0.1
+- pkg:composer/arubacao/http-basic-auth-guard@1.0.0

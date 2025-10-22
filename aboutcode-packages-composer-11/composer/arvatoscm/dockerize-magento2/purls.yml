@@ -1,0 +1,4 @@
+- pkg:composer/arvatoscm/dockerize-magento2@v1.2.1
+- pkg:composer/arvatoscm/dockerize-magento2@v1.2.0
+- pkg:composer/arvatoscm/dockerize-magento2@v1.1.0
+- pkg:composer/arvatoscm/dockerize-magento2@v1.0.0

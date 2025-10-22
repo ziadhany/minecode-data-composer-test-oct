@@ -1,0 +1,3 @@
+- pkg:composer/arus/doctrine-persistent-entity-manager-middleware@v1.1.0
+- pkg:composer/arus/doctrine-persistent-entity-manager-middleware@v1.0.1
+- pkg:composer/arus/doctrine-persistent-entity-manager-middleware@v1.0.0

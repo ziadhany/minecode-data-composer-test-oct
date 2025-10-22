@@ -1,0 +1,4 @@
+- pkg:composer/asan/nsq-swoole@v1.3
+- pkg:composer/asan/nsq-swoole@v1.2
+- pkg:composer/asan/nsq-swoole@v1.1
+- pkg:composer/asan/nsq-swoole@v1.0

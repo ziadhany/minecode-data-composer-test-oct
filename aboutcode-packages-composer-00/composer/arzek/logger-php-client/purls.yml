@@ -1,0 +1,4 @@
+- pkg:composer/arzek/logger-php-client@3.0.1
+- pkg:composer/arzek/logger-php-client@3.0.0
+- pkg:composer/arzek/logger-php-client@2.0.0
+- pkg:composer/arzek/logger-php-client@1.0.0
