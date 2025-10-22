@@ -1,0 +1,4 @@
+- pkg:composer/automattic/wpcom-migration@2.0.0
+- pkg:composer/automattic/wpcom-migration@1.0.1
+- pkg:composer/automattic/wpcom-migration@1.0.0
+- pkg:composer/automattic/wpcom-migration@0.1.0

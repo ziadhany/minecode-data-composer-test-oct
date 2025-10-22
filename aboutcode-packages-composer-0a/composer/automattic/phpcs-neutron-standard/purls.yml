@@ -1,0 +1,16 @@
+- pkg:composer/automattic/phpcs-neutron-standard@v1.7.0
+- pkg:composer/automattic/phpcs-neutron-standard@v1.6.0
+- pkg:composer/automattic/phpcs-neutron-standard@v1.5.4
+- pkg:composer/automattic/phpcs-neutron-standard@v1.5.3
+- pkg:composer/automattic/phpcs-neutron-standard@v1.5.2
+- pkg:composer/automattic/phpcs-neutron-standard@v1.5.1
+- pkg:composer/automattic/phpcs-neutron-standard@v1.5.0
+- pkg:composer/automattic/phpcs-neutron-standard@v1.4.0
+- pkg:composer/automattic/phpcs-neutron-standard@v1.3.0
+- pkg:composer/automattic/phpcs-neutron-standard@v1.2.4
+- pkg:composer/automattic/phpcs-neutron-standard@v1.2.3
+- pkg:composer/automattic/phpcs-neutron-standard@v1.2.2
+- pkg:composer/automattic/phpcs-neutron-standard@v1.2.1
+- pkg:composer/automattic/phpcs-neutron-standard@v1.2.0
+- pkg:composer/automattic/phpcs-neutron-standard@v1.1.0
+- pkg:composer/automattic/phpcs-neutron-standard@v1.0

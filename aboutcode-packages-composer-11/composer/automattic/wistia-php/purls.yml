@@ -1,0 +1,4 @@
+- pkg:composer/automattic/wistia-php@1.0.2
+- pkg:composer/automattic/wistia-php@1.0.1
+- pkg:composer/automattic/wistia-php@1.0.0
+- pkg:composer/automattic/wistia-php@1.0.0-beta

@@ -1,0 +1,4 @@
+- pkg:composer/avdb/datatables-bundle@0.9.2
+- pkg:composer/avdb/datatables-bundle@0.9.1
+- pkg:composer/avdb/datatables-bundle@0.9
+- pkg:composer/avdb/datatables-bundle@v0.1.2

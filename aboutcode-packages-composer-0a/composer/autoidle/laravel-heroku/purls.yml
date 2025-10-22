@@ -1,0 +1,4 @@
+- pkg:composer/autoidle/laravel-heroku@v5.8.35
+- pkg:composer/autoidle/laravel-heroku@v5.8.28
+- pkg:composer/autoidle/laravel-heroku@v5.8.27
+- pkg:composer/autoidle/laravel-heroku@v5.8.26
