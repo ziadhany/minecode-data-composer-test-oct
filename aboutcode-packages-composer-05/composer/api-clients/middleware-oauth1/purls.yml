@@ -1,0 +1,4 @@
+- pkg:composer/api-clients/middleware-oauth1@4.0.0
+- pkg:composer/api-clients/middleware-oauth1@3.0.0
+- pkg:composer/api-clients/middleware-oauth1@2.0.0
+- pkg:composer/api-clients/middleware-oauth1@1.0.0

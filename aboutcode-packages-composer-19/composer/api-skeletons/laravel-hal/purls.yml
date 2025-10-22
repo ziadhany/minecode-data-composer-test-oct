@@ -1,0 +1,14 @@
+- pkg:composer/api-skeletons/laravel-hal@5.0.2
+- pkg:composer/api-skeletons/laravel-hal@5.0.1
+- pkg:composer/api-skeletons/laravel-hal@5.0.0
+- pkg:composer/api-skeletons/laravel-hal@4.0.1
+- pkg:composer/api-skeletons/laravel-hal@4.0.0
+- pkg:composer/api-skeletons/laravel-hal@3.0.4
+- pkg:composer/api-skeletons/laravel-hal@3.0.3
+- pkg:composer/api-skeletons/laravel-hal@3.0.2
+- pkg:composer/api-skeletons/laravel-hal@3.0.1
+- pkg:composer/api-skeletons/laravel-hal@3.0.0
+- pkg:composer/api-skeletons/laravel-hal@2.0.0
+- pkg:composer/api-skeletons/laravel-hal@1.0.1
+- pkg:composer/api-skeletons/laravel-hal@1.0.0
+- pkg:composer/api-skeletons/laravel-hal@0.9.0

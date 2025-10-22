@@ -1,0 +1,2 @@
+- pkg:composer/api-clients/middleware-bearer-authorization@2.0.0
+- pkg:composer/api-clients/middleware-bearer-authorization@1.0.0

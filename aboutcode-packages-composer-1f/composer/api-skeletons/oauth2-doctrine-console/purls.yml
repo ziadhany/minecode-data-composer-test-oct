@@ -1,0 +1,3 @@
+- pkg:composer/api-skeletons/oauth2-doctrine-console@5.1.0
+- pkg:composer/api-skeletons/oauth2-doctrine-console@5.0.1
+- pkg:composer/api-skeletons/oauth2-doctrine-console@5.0.0

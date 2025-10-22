@@ -1,0 +1,4 @@
+- pkg:composer/api-skeletons/oauth2-doctrine-identity@5.0.3
+- pkg:composer/api-skeletons/oauth2-doctrine-identity@5.0.2
+- pkg:composer/api-skeletons/oauth2-doctrine-identity@5.0.1
+- pkg:composer/api-skeletons/oauth2-doctrine-identity@5.0.0

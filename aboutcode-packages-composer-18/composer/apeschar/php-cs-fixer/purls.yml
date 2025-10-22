@@ -1,0 +1,4 @@
+- pkg:composer/apeschar/php-cs-fixer@3.0
+- pkg:composer/apeschar/php-cs-fixer@2.1
+- pkg:composer/apeschar/php-cs-fixer@2.0
+- pkg:composer/apeschar/php-cs-fixer@1.0
