@@ -1,0 +1,3 @@
+- pkg:composer/astartsky/swiftmailer-aws-sqs-spool@1.1.0
+- pkg:composer/astartsky/swiftmailer-aws-sqs-spool@1.0.1
+- pkg:composer/astartsky/swiftmailer-aws-sqs-spool@1.0
