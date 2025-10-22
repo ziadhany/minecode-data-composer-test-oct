@@ -1,0 +1,3 @@
+- pkg:composer/anosmx/tap-payment-laravel@v0.0.8
+- pkg:composer/anosmx/tap-payment-laravel@v0.0.7
+- pkg:composer/anosmx/tap-payment-laravel@v0.0.5

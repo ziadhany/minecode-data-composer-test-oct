@@ -1,0 +1,4 @@
+- pkg:composer/anshu-krishna/php-jwt@3.2
+- pkg:composer/anshu-krishna/php-jwt@3.1
+- pkg:composer/anshu-krishna/php-jwt@3.0
+- pkg:composer/anshu-krishna/php-jwt@2.0

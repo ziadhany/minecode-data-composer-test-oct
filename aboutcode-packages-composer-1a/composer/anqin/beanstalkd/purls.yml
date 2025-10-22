@@ -1,0 +1,5 @@
+- pkg:composer/anqin/beanstalkd@v1.0.1
+- pkg:composer/anqin/beanstalkd@v1.0
+- pkg:composer/anqin/beanstalkd@v1.0.0beta3
+- pkg:composer/anqin/beanstalkd@v1.0.0beta2
+- pkg:composer/anqin/beanstalkd@1.0.0beta1
