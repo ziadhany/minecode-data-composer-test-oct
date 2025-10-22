@@ -1,0 +1,4 @@
+- pkg:composer/arkon-event/send-regning-api@v0.7.0
+- pkg:composer/arkon-event/send-regning-api@0.6.1
+- pkg:composer/arkon-event/send-regning-api@0.6.0
+- pkg:composer/arkon-event/send-regning-api@0.5.0

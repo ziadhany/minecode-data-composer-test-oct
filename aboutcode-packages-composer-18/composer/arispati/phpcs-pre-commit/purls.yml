@@ -1,0 +1,4 @@
+- pkg:composer/arispati/phpcs-pre-commit@v1.2.1
+- pkg:composer/arispati/phpcs-pre-commit@v1.2.0
+- pkg:composer/arispati/phpcs-pre-commit@v1.1.0
+- pkg:composer/arispati/phpcs-pre-commit@v1.0.0
