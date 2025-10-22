@@ -1,0 +1,4 @@
+- pkg:composer/arrow-web-sol/behat-laravel-extension@v1.1.3
+- pkg:composer/arrow-web-sol/behat-laravel-extension@v1.1.2
+- pkg:composer/arrow-web-sol/behat-laravel-extension@1.1.1
+- pkg:composer/arrow-web-sol/behat-laravel-extension@1.0

@@ -1,0 +1,5 @@
+- pkg:composer/articus/container-interop-symfony-console@0.3
+- pkg:composer/articus/container-interop-symfony-console@0.2.2
+- pkg:composer/articus/container-interop-symfony-console@0.2.1
+- pkg:composer/articus/container-interop-symfony-console@0.2
+- pkg:composer/articus/container-interop-symfony-console@0.1

@@ -1,0 +1,4 @@
+- pkg:composer/artisan/laravel-asset-pipeline@0.2.0
+- pkg:composer/artisan/laravel-asset-pipeline@0.1.2
+- pkg:composer/artisan/laravel-asset-pipeline@0.1.1
+- pkg:composer/artisan/laravel-asset-pipeline@0.1.0

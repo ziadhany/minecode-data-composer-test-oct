@@ -1,0 +1,4 @@
+- pkg:composer/articus/openapi-generator-common@0.3
+- pkg:composer/articus/openapi-generator-common@0.2
+- pkg:composer/articus/openapi-generator-common@0.1.1
+- pkg:composer/articus/openapi-generator-common@0.1
