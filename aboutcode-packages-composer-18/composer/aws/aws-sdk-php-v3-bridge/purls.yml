@@ -1,0 +1,5 @@
+- pkg:composer/aws/aws-sdk-php-v3-bridge@0.4.0
+- pkg:composer/aws/aws-sdk-php-v3-bridge@0.3.0
+- pkg:composer/aws/aws-sdk-php-v3-bridge@0.2.0
+- pkg:composer/aws/aws-sdk-php-v3-bridge@0.1.0
+- pkg:composer/aws/aws-sdk-php-v3-bridge@0.0.1

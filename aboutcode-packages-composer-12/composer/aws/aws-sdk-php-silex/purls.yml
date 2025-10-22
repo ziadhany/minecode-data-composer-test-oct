@@ -1,0 +1,8 @@
+- pkg:composer/aws/aws-sdk-php-silex@3.0.0
+- pkg:composer/aws/aws-sdk-php-silex@2.1.0
+- pkg:composer/aws/aws-sdk-php-silex@2.0.2
+- pkg:composer/aws/aws-sdk-php-silex@2.0.1
+- pkg:composer/aws/aws-sdk-php-silex@2.0.0
+- pkg:composer/aws/aws-sdk-php-silex@1.1.0
+- pkg:composer/aws/aws-sdk-php-silex@1.0.1
+- pkg:composer/aws/aws-sdk-php-silex@1.0.0

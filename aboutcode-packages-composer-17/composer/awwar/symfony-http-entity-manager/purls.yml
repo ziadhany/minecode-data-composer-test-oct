@@ -1,0 +1,5 @@
+- pkg:composer/awwar/symfony-http-entity-manager@2.0.0-rc
+- pkg:composer/awwar/symfony-http-entity-manager@1.0.4
+- pkg:composer/awwar/symfony-http-entity-manager@1.0.3
+- pkg:composer/awwar/symfony-http-entity-manager@1.0.2
+- pkg:composer/awwar/symfony-http-entity-manager@1.0.1
